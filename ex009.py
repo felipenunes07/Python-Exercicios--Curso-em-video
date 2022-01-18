@@ -1,3 +1,6 @@
+## Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada.##
+
+
 n = int(input('Digite um número para ver sua tabuada:'))
 print('__'*10)
 print('{} x 1 = {}'.format(n,n*1))
